@@ -17,12 +17,30 @@
     margin-bottom: 5px;
 }
 .contato{ 
-    padding: 5px;
-    margin-bottom: 5px;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #e32025;
+    color: #ffffff;
+    border: 2px solid #e32025;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
 }
+
 .mídia{
-    padding: 5px;
-    margin-bottom: 5px;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #e32025;
+    color: #ffffff;
+    border: 2px solid #e32025;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+
 }
 .rodape-div{
     display: flex;
